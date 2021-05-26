@@ -29,3 +29,8 @@
 
 >>>>>>> Stashed changes
 
+- Open the file & run the macro using the button
+- ![after_opened](https://user-images.githubusercontent.com/28387985/119652779-d23a4180-be26-11eb-8f15-c68f20e00001.PNG)
+
+- see how difference are the the results now
+- ![after_running](https://user-images.githubusercontent.com/28387985/119652818-e120f400-be26-11eb-8101-b5869d638005.PNG)
