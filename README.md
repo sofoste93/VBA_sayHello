@@ -19,4 +19,13 @@
 >
 
 
+<<<<<<< Updated upstream
+=======
+>
+> # Contribution
+> 
+> - Stéphane Sob Fouodji
+>
+
+>>>>>>> Stashed changes
 
